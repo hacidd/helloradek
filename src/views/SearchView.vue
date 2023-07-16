@@ -63,7 +63,7 @@ export default {
 }
 
 input {
-  height: 30px;
+  height: 40px;
   border: 0;
   border-bottom: 1px solid black;
 }
