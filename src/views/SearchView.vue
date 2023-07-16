@@ -52,7 +52,7 @@ export default {
   flex-direction: column;
   align-items: center;
   margin: 0;
-  padding: 35px;
+  padding: 30px;
   width: 100%;
 }
 
